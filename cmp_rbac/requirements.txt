@@ -1,0 +1,14 @@
+Flask
+flask_cors
+flask_httpauth
+flask_migrate
+flask_restplus
+flask_sqlalchemy
+jsonschema
+MySQL-python
+passlib
+python-json-logger
+requests
+six
+vcversioner
+boto3
